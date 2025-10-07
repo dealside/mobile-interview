@@ -4,7 +4,7 @@
   "private": true,
   "description": "React Native coding interview for mid-level to senior full-stack developers",
   "scripts": {
-    "prepare": "pnpm install"
+    "dev": "pnpm --filter @mobile-interview/backend dev"
   },
   "engines": {
     "node": ">=18.0.0",
