@@ -1,0 +1,21 @@
+{
+  "name": "mobile-interview",
+  "version": "1.0.0",
+  "private": true,
+  "description": "React Native coding interview for mid-level to senior full-stack developers",
+  "scripts": {
+    "prepare": "pnpm install"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "packageManager": "pnpm@8.15.0",
+  "keywords": [
+    "react-native",
+    "interview",
+    "coding-challenge"
+  ],
+  "author": "",
+  "license": "MIT"
+}
